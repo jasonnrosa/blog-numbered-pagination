@@ -6,4 +6,4 @@
 
 Add this snippet in the blog listing template HTML outside of the main blog for loop where you want the pagination to show.
 
-![Image of inline styling on media](../../../screenshots/screenshot1.png)
+![Image of inline styling on media](screenshots/blog-numbered-pagination.png)
