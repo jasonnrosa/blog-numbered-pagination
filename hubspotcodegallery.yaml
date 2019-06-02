@@ -1,8 +1,7 @@
-title: Blog Numbered pagination
-description: |
-  Code
-categories:
-demo_url:
-video_url:
+title: Blog Numbered Pagination
+description: This snippet is used to add basic numbered pagination to your blog as an alternative to the default pagination mentioned here (https://designers.hubspot.com/docs/hubl/blog-content-markup#listing-pagination).
+type: snippet
+categories: Blog
+demo_url: 
+video_url: 
 hubspot_url:
-
